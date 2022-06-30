@@ -15,7 +15,8 @@ https://hub.docker.com/repository/docker/zwnes/ys-bot
 
 配置请参[原项目](https://github.com/Arondight/Adachi-BOT)
 
-# English version
+# English
+This is a Chinese chat APP QQ's Bot,and don't support English.
 This is an auto program to build the Adachi-BOT dockerfiles and push it to Docker Hub.
 You can check it on  https://hub.docker.com/repository/docker/zwnes/ys-bot
 
