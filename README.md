@@ -1,4 +1,4 @@
-# ys-bot
+# ys-bot/Adachi-BOT Docker
 # 中文
 这是Adachi-BOT的docker自动构建推送程序，你可以在这里看到它 
 https://hub.docker.com/repository/docker/zwnes/ys-bot
