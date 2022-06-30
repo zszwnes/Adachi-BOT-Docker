@@ -1,5 +1,5 @@
 # ys-bot
-This is a auto programe to biuild the Adachi-BOT dockerfile and psh it to Docker Hub.
+This is an auto programe to biuild the Adachi-BOT dockerfile and psh it to Docker Hub.
 You can check it on  https://hub.docker.com/repository/docker/zwnes/ys-bot
 
 command :
