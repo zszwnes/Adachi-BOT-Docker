@@ -5,7 +5,7 @@
 https://hub.docker.com/repository/docker/zwnes/ys-bot
 
 如果你想部署在自己的机器上
-> `docker run -itd --name=ys-bot -v /root/ys-bot/config:/app/Adachi-BOT/config kimikkorow/adachi-bot`
+> `docker run -itd --name=ys-bot -v /root/ys-bot/config:/app/Adachi-BOT/config zwnes/ys-bot`
 
 这是你在部署后需要的额外操作
 
